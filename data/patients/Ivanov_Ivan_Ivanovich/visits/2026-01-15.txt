@@ -1,0 +1,3 @@
+Complaints: headache
+Diagnosis: tension-type headache
+Treatment: rest and symptomatic therapy
